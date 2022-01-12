@@ -18,7 +18,7 @@ The following are functionality that was complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/isabel2296/HighLowGame/blob/main/HighLowGameGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [PicGIF Lite].
 
