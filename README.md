@@ -25,7 +25,7 @@ GIF created with [PicGIF Lite].
 
 ## Notes
     This app was devloped following a tutorial called "How to Make an IOS Game..." found: 
-    <img src = 'https://www.zerotoappstore.com/how-to-make-an-ios-game.html' title='Zero To App Store' alt = ' Zero To App Store'/> . 
+    https://www.zerotoappstore.com/how-to-make-an-ios-game.html
 
 ## License
 
